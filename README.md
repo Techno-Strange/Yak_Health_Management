@@ -132,31 +132,31 @@ PostgreSQL Database
 ### 🔐 Login Page
 
 <p align="center">
-  <img src="screenshots/banner.png" width="100%">
+  <img src="Yak Files/login.png" width="100%">
 </p>
 
 ### 🏠 Dashboard
 
 <p align="center">
-  <img src="screenshots/banner.png" width="100%">
+  <img src="Yak Files/dashboard.png" width="100%">
 </p>
 
 ### 🐂 Yak Cards & Search
 
 <p align="center">
-  <img src="screenshots/banner.png" width="100%">
+  <img src="Yak Files/yak search.png" width="100%">
 </p>
 
 ### 💉 Vaccination Records
 
 <p align="center">
-  <img src="screenshots/banner.png" width="100%">
+  <img src="Yak Files/yak info.png" width="100%">
 </p>
 
 ### 📄 PDF Export
 
 <p align="center">
-  <img src="screenshots/banner.png" width="100%">
+  <img src="Yak Files/database.png" width="100%">
 </p>
 
 ---
